@@ -4,7 +4,7 @@
 📍 *6th Bangladesh Economics Summit 2025*  
 🎯 Theme: Climate and Trade
 
-This project explores the global transition from fossil fuels to renewable energy and its impact on CO₂ emissions across decades (1960–2023). It was awarded first place in a data visualization competition organized by the Bangladesh Economics Summit.
+This project explores the global transition from fossil fuels to renewable energy and its impact on CO₂ emissions across decades (1960–2023). It was awarded first runner-up in a data visualization competition organized by the Bangladesh Economics Summit.
 
 ## 📈 Highlights
 
