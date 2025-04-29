@@ -14,6 +14,20 @@ This project explores the global transition from fossil fuels to renewable energ
 - 🌍 Tableau Dashboard for Global Performance
 - 📊 Country-specific energy and emissions comparisons
 
+## 🖼️ Visual Samples
+
+**🔻 Correlation Heatmap:**  
+Shows the relationship between various fuel types and CO₂ emissions.
+
+![Correlation Heatmap](Correlation-heatmap.png)
+
+
+**📊 Tableau Dashboard Overview:**  
+Interactive global view of energy production vs emissions by country and income group.
+
+![Tableau Dashboard](Tableau%20Dashboard%20snap.png)
+
+
 ## 🛠 Tools Used
 
 - Tableau (for interactive dashboards)
