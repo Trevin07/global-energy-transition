@@ -1,6 +1,6 @@
 # 🌍 Global Energy Transition: Climate Impact Dashboard
 
-🏆 **A Winner - Data Visualization Competition**  
+🏆 **Winner - Data Visualization Competition**  
 📍 *6th Bangladesh Economics Summit 2025*  
 🎯 Theme: Climate and Trade
 
