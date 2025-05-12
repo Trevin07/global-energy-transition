@@ -60,3 +60,5 @@ The project titled **"The Fossil Fuel Paradox"** uncovers how:
 
 > 🥇 This project secured me a top spot among regional and international entries.  
 > 🧾 Certificate of Achievement provided by BES 2025.
+
+![Certificate](certificate.png)
